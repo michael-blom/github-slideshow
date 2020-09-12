@@ -2,5 +2,5 @@
 layout: Slide
 title: "Welcom to our second slide!"
 ---
-This is my awesom text
+* It is -great- and beautifull*
 Use the left arrow to go back
